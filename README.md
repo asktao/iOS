@@ -94,7 +94,6 @@ What I installed in my iOS
 #### 个人所得税
 #### DBS digibank
 #### Subscriptions
-#### moomoo
 
 ### Food & Drink
 #### 菜谱大全
