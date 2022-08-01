@@ -160,7 +160,6 @@ What I installed in my iOS
 #### Lightroom Photo & Video Editor
 #### Facetune2
 #### Instagram
-#### EXIF Viewer LITE
 #### VLC media player
 #### Snapseed
 #### VSCO
