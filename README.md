@@ -31,6 +31,8 @@ What I installed in my iOS
 * [Travel](#travel)
 * [Utilities](#utilities)
 * [Weather](#weather)
++ [iPadOS](#iPadOS-)
++ [macOS](#macOS-)
 
 
 ### Books
@@ -265,7 +267,7 @@ What I installed in my iOS
 #### 夸克
 #### Apple Music for Artists  <img src="iPadOS.jpg" width="20" height="20" />
 #### NiSi ND Calculator
-#### 3d Scanner App
+#### 3d Scanner App <img src="iPadOS.jpg" width="20" height="20" />
 #### Circles.Life
 #### Battle.net Authenticator
 #### 1.1.1.1
@@ -275,5 +277,10 @@ What I installed in my iOS
 #### ColorfulClouds Weather Pro
 #### Windy.com
 #### 莉景天气
+
+## [iPadOS <img src="iPadOS.jpg" width="20" height="20" />](https://github.com/asktao/iPadOS)
+ -What I installed in my iPadOS
+## [macOS 💻](https://github.com/asktao/macOS)
+ -What I installed in my macOS
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
