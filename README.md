@@ -131,7 +131,6 @@ What I installed in my iOS
 #### iMuseum
 
 ### Medical
-#### AIA eBenefits App
 #### 3D Organon Anatomy Enterprise
 
 ### Music
