@@ -44,7 +44,6 @@ What I installed in my iOS
 
 ### Business
 #### 天眼查
-#### Slack 💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### 知识星球
 #### WeCom
 #### ArubaVIA
