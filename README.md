@@ -46,7 +46,6 @@ What I installed in my iOS
 #### 天眼查
 #### 知识星球
 #### WeCom
-#### ArubaVIA
 #### SeaTalk
 
 ### Developer Tools
