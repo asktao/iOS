@@ -75,6 +75,7 @@ What I installed in my iOS
 #### 紫禁城600
 #### Symbolab
 #### 国家数字图书馆
+#### PlantNet
 
 ### Entertainment
 #### Apple Podcasts  💻 <img src="iPadOS.jpg" width="20" height="20" />
