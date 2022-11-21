@@ -3,7 +3,7 @@
 What I installed in my iOS
 
 **Explanation**
-<U+F8FF>   means Apple’s App
+   means Apple’s App
 💻  means macOS available
 <img src="iPadOS.jpg" width="20" height="20" />     means iPadOS available
 
