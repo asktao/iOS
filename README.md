@@ -136,7 +136,7 @@ What I installed in my iOS
 #### Monster Chords <img src="iPadOS.jpg" width="20" height="20" />
 #### Pulse
 #### Logic Remote  <img src="iPadOS.jpg" width="20" height="20" />
-#### Shazam  <img src="iPadOS.jpg" width="20" height="20" />
+#### Shazam  💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### GarageBand  <img src="iPadOS.jpg" width="20" height="20" />
 #### SoundHound
 #### Impulse
