@@ -51,8 +51,8 @@ What I installed in my iOS
 ### Developer Tools
 #### Apple Developer  💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### TestFlight  💻 <img src="iPadOS.jpg" width="20" height="20" />
-#### App Store Connect 
-#### GitHub
+#### App Store Connect  <img src="iPadOS.jpg" width="20" height="20" />
+#### GitHub <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Education
 #### 流利说·英语
@@ -158,7 +158,7 @@ What I installed in my iOS
 #### Lightroom Photo & Video Editor
 #### Facetune2
 #### Instagram
-#### VLC media player
+#### VLC media player 💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### Snapseed
 #### VSCO
 #### Pixelmator Pro 💻 <img src="iPadOS.jpg" width="20" height="20" />
@@ -254,7 +254,7 @@ What I installed in my iOS
 #### Google Authenticator
 #### 中国联通
 #### Sketch Mirror
-#### Shadowrocket
+#### Shadowrocket <img src="iPadOS.jpg" width="20" height="20" />
 #### Apple Support 
 #### DuckDuckGo Privacy Browser
 #### Reality Composer  💻 <img src="iPadOS.jpg" width="20" height="20" />
