@@ -131,6 +131,7 @@ What I installed in my iOS
 
 ### Medical
 #### 3D Organon Anatomy Enterprise
+#### 默沙东诊疗手册 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Music
 #### Monster Chords <img src="iPadOS.jpg" width="20" height="20" />
