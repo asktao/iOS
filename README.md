@@ -147,6 +147,7 @@ What I installed in my iOS
 #### Navigation
 #### Google Maps
 #### 高德地图
+#### 百度地图
 
 ### News
 #### Twitter
