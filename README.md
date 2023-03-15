@@ -276,6 +276,7 @@ What I installed in my iOS
 #### ColorfulClouds Weather Pro
 #### Windy.com
 #### 莉景天气
+#### QWeather
 
 ## [iPadOS <img src="iPadOS.jpg" width="20" height="20" />](https://github.com/asktao/iPadOS)
  -What I installed in my iPadOS
