@@ -271,6 +271,7 @@ What I installed in my iOS
 #### Battle.net Authenticator
 #### 1.1.1.1
 #### OpenVPN Connect 💻 <img src="iPadOS.jpg" width="20" height="20" />
+#### 地质云
 
 ### Weather
 #### ColorfulClouds Weather Pro
