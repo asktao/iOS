@@ -40,7 +40,7 @@ What I installed in my iOS
 #### Kindle 💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### Audible
 #### 微信读书 <img src="iPadOS.jpg" width="20" height="20" />
-#### 每日精选
+#### Daily Dozen
 
 ### Business
 #### 天眼查
