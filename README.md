@@ -120,7 +120,6 @@ What I installed in my iOS
 #### mars
 #### 新加坡眼
 #### 99.co
-#### SRX
 
 ### Magazines & Newspapers
 #### iMuseum
