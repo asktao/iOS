@@ -149,7 +149,6 @@ What I installed in my iOS
 #### 开发者头条
 #### Reddit
 #### 数字尾巴 DGtle
-#### 数据中国
 
 ### Photo & Video
 #### Lightroom Photo & Video Editor
