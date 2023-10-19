@@ -70,7 +70,7 @@ What I installed in my iOS
 #### DailyArt
 #### Meludia
 #### Fretonomy
-#### 紫禁城600
+#### 紫禁城365
 #### Symbolab
 #### 国家数字图书馆
 #### PlantNet
