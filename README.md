@@ -79,7 +79,6 @@ What I installed in my iOS
 #### Apple Podcasts  💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### iTunes Remote  <img src="iPadOS.jpg" width="20" height="20" />
 #### 斗鱼直播
-#### 爱奇艺
 #### Fluid Simulation
 #### 开眼Eyepetizer
 #### Sketchfab
