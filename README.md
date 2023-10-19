@@ -95,7 +95,6 @@ What I installed in my iOS
 
 ### Food & Drink
 #### 菜谱大全
-#### Grab Superapp
 #### 下厨房
 
 ### Graphics & Design
