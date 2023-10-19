@@ -45,7 +45,6 @@ What I installed in my iOS
 ### Business
 #### 天眼查
 #### 知识星球
-#### WeCom
 #### SeaTalk
 
 ### Developer Tools
