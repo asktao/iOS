@@ -69,7 +69,7 @@ What I installed in my iOS
 #### WWF Free Rivers
 #### DailyArt
 #### Meludia
-#### FretTrainer
+#### Fretonomy
 #### 紫禁城600
 #### Symbolab
 #### 国家数字图书馆
