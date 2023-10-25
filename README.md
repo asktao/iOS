@@ -206,7 +206,6 @@ What I installed in my iOS
 #### Deepl Translate
 #### PANTONE Studio
 #### Pantone Connect
-#### SGWorkPass
 #### 中国法律快查手册
 
 ### Games
@@ -222,7 +221,6 @@ What I installed in my iOS
 #### 拼多多
 #### Apple Store  <img src="iPadOS.jpg" width="20" height="20" />
 #### 多抓鱼
-#### Shopee
 #### Carousell
 
 ### Social Networking
@@ -240,7 +238,6 @@ What I installed in my iOS
 ### Travel
 #### 铁路12306
 #### Scoot Mobile
-#### iChangi
 #### Air China
 #### 携程旅行
 #### SFMOMA
@@ -254,14 +251,12 @@ What I installed in my iOS
 #### Apple Support 
 #### DuckDuckGo Privacy Browser
 #### Reality Composer  💻 <img src="iPadOS.jpg" width="20" height="20" />
-#### Scrolling Tailor
 #### Indoor Survey  <img src="iPadOS.jpg" width="20" height="20" />
 #### Cerulean
 #### 夸克
 #### Apple Music for Artists  <img src="iPadOS.jpg" width="20" height="20" />
 #### NiSi ND Calculator
 #### 3d Scanner App <img src="iPadOS.jpg" width="20" height="20" />
-#### Circles.Life
 #### Battle.net Authenticator
 #### 1.1.1.1
 #### OpenVPN Connect 💻 <img src="iPadOS.jpg" width="20" height="20" />
