@@ -179,7 +179,7 @@ What I installed in my iOS
 #### Photoshop Express Photo Editor
 #### Wuta Camera
 #### FotorGear
-#### Darkroom
+#### Darkroom 💻 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Productivity
 #### Evernote
