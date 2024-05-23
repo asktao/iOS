@@ -246,7 +246,6 @@ What I installed in my iOS
 #### 万年历
 #### Google Authenticator
 #### 中国联通
-#### Sketch Mirror
 #### Shadowrocket <img src="iPadOS.jpg" width="20" height="20" />
 #### Apple Support 
 #### DuckDuckGo Privacy Browser
