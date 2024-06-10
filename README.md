@@ -81,7 +81,6 @@ What I installed in my iOS
 #### 斗鱼直播
 #### Fluid Simulation
 #### 开眼Eyepetizer
-#### Sketchfab
 #### Time Capsule  <img src="iPadOS.jpg" width="20" height="20" />
 #### TikTok
 
