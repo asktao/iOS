@@ -150,6 +150,7 @@ What I installed in my iOS
 #### 数字尾巴 DGtle
 
 ### Photo & Video
+#### Final Cut Camera
 #### Lightroom Photo & Video Editor
 #### Facetune2
 #### Instagram
