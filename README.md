@@ -59,7 +59,6 @@ What I installed in my iOS
 #### BEAKER by THIX
 #### Algorithms
 #### Researcher <img src="iPadOS.jpg" width="20" height="20" />
-#### 墨墨背单词
 #### NASA
 #### WikiArt
 #### 全历史
