@@ -144,7 +144,6 @@ What I installed in my iOS
 
 ### News
 #### Twitter
-#### 开发者头条
 #### Reddit
 #### 数字尾巴 DGtle
 
