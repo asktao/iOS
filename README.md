@@ -175,7 +175,6 @@ What I installed in my iOS
 #### Tezza
 #### Photoshop Camera Photo Effects
 #### Photoshop Express Photo Editor
-#### Wuta Camera
 #### FotorGear
 #### Darkroom 💻 <img src="iPadOS.jpg" width="20" height="20" />
 
