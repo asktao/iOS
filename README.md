@@ -72,7 +72,6 @@ What I installed in my iOS
 ### Entertainment
 #### Apple Podcasts  💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### iTunes Remote  <img src="iPadOS.jpg" width="20" height="20" />
-#### 斗鱼直播
 #### Fluid Simulation
 #### 开眼Eyepetizer
 #### Time Capsule  <img src="iPadOS.jpg" width="20" height="20" />
@@ -84,7 +83,6 @@ What I installed in my iOS
 #### PayPal
 #### 个人所得税
 #### DBS digibank
-#### Subscriptions
 
 ### Food & Drink
 #### 菜谱大全
@@ -107,12 +105,9 @@ What I installed in my iOS
 #### 狮城助手
 #### Xiaomi Home
 #### VART
-#### PropertyGuru Singapore
 #### 每日故宫
 #### 在艺
 #### mars
-#### 新加坡眼
-#### 99.co
 
 ### Magazines & Newspapers
 #### iMuseum
