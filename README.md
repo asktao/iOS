@@ -37,8 +37,6 @@ What I installed in my iOS
 
 ### Books
 #### Apple Books  💻 <img src="iPadOS.jpg" width="20" height="20" />
-#### Kindle 💻 <img src="iPadOS.jpg" width="20" height="20" />
-#### Audible
 #### 微信读书 <img src="iPadOS.jpg" width="20" height="20" />
 #### Daily Dozen
 
@@ -57,20 +55,17 @@ What I installed in my iOS
 #### 极客时间 <img src="iPadOS.jpg" width="20" height="20" />
 #### 每日英语听力
 #### BEAKER by THIX
-#### Algorithms
 #### Researcher <img src="iPadOS.jpg" width="20" height="20" />
 #### NASA
 #### WikiArt
 #### 全历史
 #### Aboboo-外语神器
 #### 中华珍宝馆 <img src="iPadOS.jpg" width="20" height="20" />
-#### 词根词缀字典
 #### WWF Free Rivers
 #### DailyArt
 #### Meludia
 #### Fretonomy
 #### 紫禁城365
-#### Symbolab
 #### 国家数字图书馆
 #### PlantNet
 
