@@ -125,10 +125,8 @@ What I installed in my iOS
 #### SoundHound
 #### Impulse
 #### Spotify
-#### Ultimate Guitar
 
 #### Navigation
-#### Google Maps
 #### 高德地图
 #### 百度地图
 
@@ -173,7 +171,6 @@ What I installed in my iOS
 #### 2Do
 #### 盖得排行
 #### Fantastical Calendar
-#### IFTTT
 #### Grammarly
 #### Keynote  💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### Numbers  💻 <img src="iPadOS.jpg" width="20" height="20" />
@@ -227,7 +224,6 @@ What I installed in my iOS
 #### Scoot Mobile
 #### Air China
 #### 携程旅行
-#### SFMOMA
 
 ### Utilities
 #### 万年历
