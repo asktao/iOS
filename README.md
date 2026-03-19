@@ -55,7 +55,6 @@ What I installed in my iOS
 #### 极客时间 <img src="iPadOS.jpg" width="20" height="20" />
 #### 每日英语听力
 #### BEAKER by THIX
-#### Researcher <img src="iPadOS.jpg" width="20" height="20" />
 #### NASA
 #### WikiArt
 #### 全历史
@@ -65,7 +64,6 @@ What I installed in my iOS
 #### DailyArt
 #### Meludia
 #### Fretonomy
-#### 紫禁城365
 #### 国家数字图书馆
 #### PlantNet
 
@@ -138,11 +136,9 @@ What I installed in my iOS
 ### Photo & Video
 #### Final Cut Camera
 #### Lightroom Photo & Video Editor
-#### Facetune2
 #### Instagram
 #### VLC media player 💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### Snapseed
-#### VSCO
 #### Pixelmator Pro 💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### Clips  <img src="iPadOS.jpg" width="20" height="20" />
 #### iMovie  💻 <img src="iPadOS.jpg" width="20" height="20" />
@@ -151,19 +147,8 @@ What I installed in my iOS
 #### Imaging Edge Mobile <img src="iPadOS.jpg" width="20" height="20" />
 #### Monitor+ <img src="iPadOS.jpg" width="20" height="20" />
 #### Lux
-#### Superimpose X
-#### Focos
-#### Varlens
-#### NOMO CAM
-#### EpocCam
-#### VOCHI
-#### 水印相机
 #### DJI Fly
 #### 快手
-#### Tezza
-#### Photoshop Camera Photo Effects
-#### Photoshop Express Photo Editor
-#### FotorGear
 #### Darkroom 💻 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Productivity
@@ -185,10 +170,7 @@ What I installed in my iOS
 #### 腾讯翻译君
 #### 欧路英语词典 Eudic  💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### Merriam-Webster Dictionary <img src="iPadOS.jpg" width="20" height="20" />
-#### Japanese
 #### Planit Live
-#### Deepl Translate
-#### PANTONE Studio
 #### Pantone Connect
 #### 中国法律快查手册
 
@@ -238,10 +220,8 @@ What I installed in my iOS
 #### 夸克
 #### Apple Music for Artists  <img src="iPadOS.jpg" width="20" height="20" />
 #### NiSi ND Calculator
-#### 3d Scanner App <img src="iPadOS.jpg" width="20" height="20" />
 #### Battle.net Authenticator
 #### 1.1.1.1
-#### OpenVPN Connect 💻 <img src="iPadOS.jpg" width="20" height="20" />
 #### 地质云
 
 ### Weather
