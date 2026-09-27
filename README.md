@@ -152,7 +152,6 @@ What I installed in my iOS
 #### Darkroom 💻 <img src="iPadOS.jpg" width="20" height="20" />
 
 ### Productivity
-#### Evernote
 #### 2Do
 #### 盖得排行
 #### Fantastical Calendar
